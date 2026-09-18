@@ -1,4 +1,4 @@
-# AnalystLab-Africa-Data-Analytics-Internship
+# 8Weeks-Data-Analytics-Internship
 # Week 1 — Online Retail Data Cleaning & Exploratory Data Analysis
 
 ## 📌 Project Overview
